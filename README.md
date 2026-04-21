@@ -70,4 +70,10 @@ export default defineConfig([
     },
   },
 ])
+
+## 🔑 Environment Variables
+
+Create a `.env` file and add:
+
+VITE_OMDB_API_KEY=your_api_key_here
 ```
